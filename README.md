@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Zoya Zulfequar
+- 👀 I’m interested in 'Programming,Artificial Intelligence,Robotics,Exoloring.
+- 🌱 I’m currently learning 'Bachelors of Computer Application (BCA)'. 
+- 💞️ I’m looking to collaborate for some interesting projects.
+- 📫 You can reach me through my email Id 'zoya.zulfequar02@gmail.com'.
